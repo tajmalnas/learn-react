@@ -1,0 +1,10 @@
+.tinder-logo{
+    height: 60px;
+}
+.Header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom: 1px solid #f8f0f0;
+}
